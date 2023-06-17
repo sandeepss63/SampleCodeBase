@@ -1,1 +1,1 @@
-this is my first changes in feature branch
+this is my first changes in feature branchthis is new feature added to the file
